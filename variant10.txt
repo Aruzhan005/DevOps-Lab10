@@ -1,0 +1,13 @@
+DevOps Laboratory Work - Variant 10
+
+Topic: Linux Filesystem Diagnostics
+
+Commands:
+1. lsblk -f
+2. blkid
+3. df -h
+4. findmnt
+
+Objective:
+Compare Linux block devices, filesystem types,
+UUID identifiers, disk usage and mount points.
